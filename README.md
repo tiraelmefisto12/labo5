@@ -105,21 +105,23 @@
 
 ## 📊 Estadísticas de GitHub
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuUsuarioGitHub&label=Profile%20views&color=0e75b6&style=flat" alt="TuUsuarioGitHub"/>
+  <img src="https://komarev.com/ghpvc/?username=tiraelmefisto12&label=👀%20Profile%20Views&color=blue&style=for-the-badge" alt="tiraelmefisto12" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=dark" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tiraelmefisto12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiraelmefisto12&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=dark" alt="Estadísticas de GitHub"/>
+  <img src="https://streak-stats.demolab.com/?user=tiraelmefisto12&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="Racha de contribuciones" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TuUsuarioGitHub&theme=elegant" alt="Racha de contribuciones"/>
-</p>
+
+
+
 
 ---
 
@@ -145,5 +147,6 @@ Aquí hay algunas ideas para comenzar:
 - ⚡ Dato curioso: ...
 
 -->
+
 
 
