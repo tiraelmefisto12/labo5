@@ -1,9 +1,6 @@
-﻿# devasc-study-team
-# labo5
-# labo5
-# labo5
+
 <h1 align="center">Hola 👋, Soy [dalshin moysef]</h1>
-<h3 align="center">[ing] || [sistemas] por la [usnch]</h3>
+<h3 align="center">[Desarrollador Back-End] || [sistemas] por la [usnch]</h3>
 
 ---
 
@@ -104,3 +101,4 @@ Aquí hay algunas ideas para comenzar:
 - ⚡ Dato curioso: ...
 
 -->
+
