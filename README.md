@@ -4,11 +4,11 @@
 
 ---
 
-- 🔭 Actualmente estoy en GitHub: [TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
+- 🔭 Actualmente estoy en GitHub: [tiraelmefisto12]([https://github.com/TuUsuarioGitHub](https://github.com/tiraelmefisto12))
 
-- 🌱 Actualmente aprendiendo **TusTecnologías**
+- 🌱 Actualmente aprendiendo **Mlops, Devops**
 
-- 👨‍💻 Pregúntame acerca de **TusLenguajesFavoritos**
+- 👨‍💻 Pregúntame acerca de **java, c++, figma, **
 
 - 📫 Mis experiencias en [Tu LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
 
@@ -20,8 +20,8 @@
 
 | **Nombre** | **Descripción** | **GitHub Stars** |
 |------------|-----------------|------------------|
-| [Proyecto 1](https://github.com/tuusuario/proyecto1) | Descripción breve de tu proyecto | ![Stars](https://img.shields.io/github/stars/tuusuario/proyecto1) |
-| [Proyecto 2](https://github.com/tuusuario/proyecto2) | Descripción breve de tu proyecto | ![Stars](https://img.shields.io/github/stars/tuusuario/proyecto2) |
+| [Proyecto 1](https://github.com/tuusuario/proyecto1) | greacion de un archivo README.md | ![Stars](https://img.shields.io/github/stars/tuusuario/proyecto1) |
+
 
 ---
 
@@ -146,6 +146,7 @@ Aquí hay algunas ideas para comenzar:
 - ⚡ Dato curioso: ...
 
 -->
+
 
 
 
