@@ -20,7 +20,7 @@
 
 | **Nombre** | **Descripción** | **GitHub Stars** |
 |------------|-----------------|------------------|
-| [Proyecto 1](https://github.com/tuusuario/proyecto1) | greacion de un archivo README.md | ![Stars](https://img.shields.io/github/stars/tuusuario/proyecto1) |
+| [laboratorio]([https://github.com/tuusuario/proyecto1](https://github.com/tiraelmefisto12)) | greacion de un archivo README.md | ![Stars]([https://img.shields.io/github/stars/tuusuario/proyecto1](https://github.com/tiraelmefisto12)) |
 
 
 ---
@@ -146,6 +146,7 @@ Aquí hay algunas ideas para comenzar:
 - ⚡ Dato curioso: ...
 
 -->
+
 
 
 
